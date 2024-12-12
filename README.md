@@ -25,5 +25,3 @@ The Expense Tracker Application allows users to track their daily, weekly, or mo
 ## Technologies Used
 - C++
 
-## License
-MIT License
